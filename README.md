@@ -63,6 +63,4 @@ It also provides a foundation for further exploration of algorithm optimization 
 - Support for more complex algorithm comparisons.
 - Automated complexity estimation and analysis.
 
-## Author
 
-Developed as an independent computational project exploring algorithm performance and theoretical computer science.
